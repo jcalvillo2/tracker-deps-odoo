@@ -1,0 +1,18 @@
+# Core dependencies
+neo4j>=5.14.0
+python-dotenv>=1.0.0
+
+# Parsing
+lxml>=4.9.3
+
+# CLI
+click>=8.1.7
+rich>=13.7.0
+
+# Visualization
+pyvis>=0.3.2
+networkx>=3.2
+
+# Development
+pytest>=7.4.3
+black>=23.12.0
